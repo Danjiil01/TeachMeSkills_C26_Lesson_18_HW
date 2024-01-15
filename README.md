@@ -13,6 +13,7 @@ Using Streams:
 
 
 Task 2
+
 Create a collection of the ArrayList class with the values ​​of the names of all students in the group
 Using Streams:
 - Select all names starting with "a" (regardless of upper/lower case letters)
